@@ -1,0 +1,73 @@
+export default music=[
+
+{
+  id:1,
+  title:'The Chainsmokers-Closer ft. Halsey',
+  artist:'The Chainsmokers',
+  artwork:'https://i.scdn.co/image/ab67616d0000b273495ce6da9aeb159e94eaa453',
+  url:'./src/music/closer.mp3',
+},
+{
+  id:2,
+  title:'Let Me Down Slowly',
+  artist:'Alec Benjamin',
+  artwork:'https://upload.wikimedia.org/wikipedia/en/8/82/Alec_Benjamin_and_Alessia_Cara_%E2%80%93_Let_Me_Down_Slowly.png',
+  url:'./src/music/DownSlowly.mp3',
+},
+{
+  id:3,
+  title:'Enrique Iglesias - Hero',
+  artist:'Enrique Iglesias',
+  artwork:'https://c-cl.cdn.smule.com/rs-s54/arr/7e/8f/c348c2f2-032c-4972-8220-2f21012613f4_512.jpg',
+  url:'./src/music/Hero.mp3',
+},
+{
+  id:4,
+  title:'Imagine Dragons - Believer',
+  artist:'Imagine Dragons',
+  artwork:'https://i1.sndcdn.com/artworks-s3zOCWcV8XQVtQcv-0emq8A-t500x500.jpg',
+  url:'./src/music/ImagineDragons.mp3',
+},
+{
+  id:5,
+  title:'Mohombi - Infinity',
+  artist:'Mohombi',
+  artwork:'https://i.scdn.co/image/ab67616d0000b27353131bc90a20e0ed576f470b',
+  url:'./src/music/infinity.mp3',
+},
+{
+  id:6,
+  title:'Ellie Goulding - Love Me Like You Do',
+  artist:'Ellie Goulding',
+  artwork:'https://i1.sndcdn.com/artworks-000678297676-3v7s2d-t500x500.jpg',
+  url:'./src/music/LoveMeLikeYouDo.mp3',
+},
+{
+  id:7,
+  title:'Passenger | Let Her Go',
+  artist:'Passenger',
+  artwork:'https://i1.sndcdn.com/artworks-000060109020-44inu3-t500x500.jpg',
+  url:'./src/music/passenger.mp3',
+},
+{
+  id:8,
+  title:'Ed Sheeran - Perfect',
+  artist:'Ed Sheeran',
+  artwork:'https://c-cl.cdn.smule.com/rs-s95/arr/44/45/1df3824d-c904-47c8-b2bc-a3ffd0083a39_1024.jpg',
+  url:'./src/music/Perfect.mp3',
+},
+{
+  id:9,
+  title:'Ed Sheeran - Shape of You',
+  artist:'Ed Sheeran',
+  artwork:'https://f4.bcbits.com/img/a4175265545_65',
+  url:'src/music/Shape Of You.mp3',
+},
+{
+  id:10,
+  title:'Calum Scott - You Are The Reason',
+  artist:'Calum Scott',
+  artwork:'https://upload.wikimedia.org/wikipedia/en/1/14/Calum_Scott_You_Are_the_Reason.jpg',
+  url:'src/music/youRdReason.mp3',
+},
+];
